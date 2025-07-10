@@ -1,0 +1,26 @@
+[
+  {
+    "title": "A300-B1",
+    "description": "The Airbus A300-B1 was the very first\nof the A300 family and essentially served as the prototype for what would become the world’s first twin-engine wide body airliner.\n\nIt first flew on October 28th 1972 and only two of this model were ever built, one prototype and one production aircraft.\n\nThe B1 had a capacity of around 259 passengers and was powered by General Electric CF6-50A engines.\n\nThe B1 never entered full commercial production. The only production model ended up in service with Trans European Airways but its primary role was to show Airbus’s capabilities and refine the design for future variants."
+  },
+  {
+    "title": "A300-B2",
+    "description": "The Airbus A300-B2 was the first version of the A300 to enter full commercial production and saw a number of enhancements over the B1. It took its first flight in June 1973.\n\nThe B2 seated up to 280 passengers and a range between roughly 2,250 and 2,600 nautical miles.\n\nThe B2 came with either General Electric CF6-50 or Pratt & Whitney JT9D engines.\n\nWith strengthened structures and refined systems as opposed to the B1, the B2 was better suited for regular airline operations leading to early carriers like Air France and Lufthansa.\n\nThere were small subvariants within the B2 category such as the B2-100and the B2-200 that allowed for marginal increases in performance and payload."
+  },
+  {
+    "title": "A300-B4",
+    "description": "The Airbus A300-B4 became the most successful and widely used of the early A300 variants.\n\nThe A300-B4 is built directly upon the B2’s foundation, but introduced a centre fuel tank, which improved its range to around 2,700 nautical miles.\n\nFirst flight was in December 1974, the B4 became the standard production model due to its higher maximum take off weight and better flexibility.\n\nIt was offered with the same engine choices of prior models such as the GE CG6-60 or PW JT9D, but what made the B4 more appealing was its capacity range and economic performance.\n\nDuring the 1980s, the A300-B4 became a central role in medium-haul operations for many airlines, later transitioned into the cargo sector where its continued to serve reliably with operators such as FedEx and DHL."
+  },
+  {
+    "title": "A300-600",
+    "description": "The Airbus A300-600 was an upgrade of the original A300 series and upgraded it to be more modern.\n\nIt first flew on July 8th 1983 and entered service later that year with Saudi Arabian Airlines.\n\nAlthough it kept the same overall size and fuselage shape as the earlier A300s, the A300-600 had a wide range of improvements in technology, performance and efficiency. It’s officially known as the A300B4-600 but commonly referred to as the A300-600.\n\nFrom the enhancements it gave the A300-600 a maximum range over 4,000 nautical miles, depending on configuration allowing it to serve longer routes compared to earlier models.\n\nIt could carry around 250-280 passengers or 48 tonnes of cargo."
+  },
+  {
+    "title": "A310-200",
+    "description": "The Airbus A310-200 was the first variant of the A310 family and served as a shorter, more efficient design compared to the original A300 planes.\n\nIt first flew on April 3rd 1982 and entered commercial service in 1983 with Lufthansa and Swissair.\n\nWhile having similar properties to the A300, the A310-200 was designed to carry fewer passengers but with improved fuel efficiency and range making it better for long-hauled flights.\n\nIt’s most distinctive features was the shortened fuselage, reduced passenger capacity (280 passengers) and an all new supercritical wing which offered better aerodynamic performance and fuel savings.\n\nIt introduced the two-crew glass cockpit replacing the traditional three-person flight deck."
+  },
+  {
+    "title": "A310-300",
+    "description": "The Airbus A310-300 was the enhanced longer-range version of the original A310-200 and became the more popular of the two.\n\nIt first flew on 8th July 1985 and entered service in 1986 with Swissair.\n\nWhile the A310-300 looked identical to the -200 from the outside, it introduced several important improvements in its performance and range.\n\nOne of the key differences was the addition of a tailplane fuel tank, along with higher maximum take off weight options allowed increased range to 5,150 nautical miles.\n\nOver time, many A310-300s were converted into freighters for cargo, some additionally were modified for military use including roles such as air-to-air refuelling, medical evacuation and VIP transport. Phasing it out of commercial use."
+  }
+]
